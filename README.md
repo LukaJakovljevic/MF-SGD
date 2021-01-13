@@ -1,7 +1,7 @@
-# Matrix Factorization with Stochastic Gradient Descent
+# course: Factorization-Based Data Modeling
+Practical Work 2
 
-## Subject:   Factorization-Based Data Modeling
-              Practical Work 2
+## Matrix Factorization with Stochastic Gradient Descent
             
 ## Authors:   Walid Gara and Luka Jakovljevic
 
